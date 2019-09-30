@@ -1,0 +1,12 @@
+.\objects\iso_led.o: ..\User\src\iso_led.c
+.\objects\iso_led.o: ..\User\inc\iso_led.h
+.\objects\iso_led.o: ..\Libraries\CMSIS\include\stm32f0xx.h
+.\objects\iso_led.o: ..\Libraries\CMSIS\include\core_cm0.h
+.\objects\iso_led.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\iso_led.o: ..\Libraries\CMSIS\include\core_cmInstr.h
+.\objects\iso_led.o: ..\Libraries\CMSIS\include\core_cmFunc.h
+.\objects\iso_led.o: ..\Libraries\CMSIS\include\system_stm32f0xx.h
+.\objects\iso_led.o: ..\User\inc\stm32f0xx_conf.h
+.\objects\iso_led.o: ..\Libraries\FWLib\inc\stm32f0xx_gpio.h
+.\objects\iso_led.o: ..\Libraries\CMSIS\include\stm32f0xx.h
+.\objects\iso_led.o: ..\Libraries\FWLib\inc\stm32f0xx_rcc.h
